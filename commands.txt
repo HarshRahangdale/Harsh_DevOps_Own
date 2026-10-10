@@ -1,0 +1,331 @@
+    1  ls
+    2  ls
+    3  ll
+    4  mkdir DeOps
+    5  cd DeOps
+    6  echo  "Hello">>file.txt
+    7  cat file.txt
+    8  gitinit
+    9  gitint
+   10  clear
+   11  ls
+   12  git init
+   13  git add file.txt
+   14  git status
+   15  git commit -m "New Has Been Added"
+   16  git config
+   17  git commit -m "New Has Been Added"
+   18  git log
+   19  git commit -m "New Has Been Added"
+   20  git clone https://github.com/HarshRahangdale/Harsh_DeOps.git
+   21  git commit -m "New Has Been Added"
+   22  git config --global user.name Harsh
+   23  git commit -m "New Has Been Added"
+   24  git config --global harshrahangdale2004.gmail.com
+   25  git commit -m "New Has Been Added"
+   26  ls
+   27  echo  "Hello">>file.txt
+   28  cat file.txt 
+   29  git add.
+   30  git add .
+   31  ll
+   32  ls
+   33  la
+   34  git init
+   35  ls
+   36  ls -la
+   37  ls -a
+   38  clear
+   39  git add .
+   40  git status
+   41  git commit -m "Adding file "
+   42    git config --global user.email "harshrahangdale2004@gmail.com"
+   43    git config --global user.name "Harsh"
+   44  git commit -m "Adding file "
+   45  git log
+   46  git clone https://github.com/HarshRahangdale/Harsh_DeOps.git
+   47  git push
+   48  git push .
+   49  ls
+   50  cd Harsh_DeOps/
+   51  git push
+   52  ls
+   53  ls
+   54  ls
+   55  ls
+   56  cd ..
+   57  cd Harsh_DeOps/
+   58  ls
+   59  ll
+   60  git clone https://github.com/HarshRahangdale/Harsh_DeOps.git
+   61  ls
+   62  ls
+   63  cd .. 
+   64  ls
+   65  cd Harsh_DeOps/
+   66  ls
+   67  rm Harsh_DeOps/
+   68  rm
+   69  rm --help
+   70  rm -- -foo Harsh_DeOps/
+   71  clear
+   72  cd ..
+   73  ls
+   74  cd
+   75  ls
+   76  ll
+   77  ls
+   78  la
+   79  echo  "Hello Hi Bye">>file1.txt
+   80  ls
+   81  git init
+   82  ls
+   83  ll
+   84  la
+   85  ls -a
+   86  git add.
+   87  git add .
+   88  git status
+   89  git commit -m "Adding File"
+   90  git log
+   91  git clone https://github.com/HarshRahangdale/Harsh_DevOps_Own.git
+   92  ls
+   93  git push
+   94  cd Harsh_DevOps_Own/
+   95  git push
+   96  git push
+   97  ls
+   98  ls -a
+   99  git branch
+  100  git branch -a
+  101  cd ..
+  102  git branch
+  103  git push
+  104  cd Harsh_DevOps_Own/
+  105  ls
+  106  cd ..
+  107  ls
+  108  git status
+  109  clear
+  110  cd ..
+  111  ls
+  112  cd DevOps/
+  113  git status
+  114  rm Harsh_DevOps_Own/
+  115  rm --foo Harsh_DevOps_Own/
+  116  ls
+  117  ecfo "Hello" > file.txt
+  118  echo "Hello"> file.txt
+  119  ls
+  120  git status
+  121  git init
+  122  ls
+  123  ls -a
+  124  git status
+  125  git add.
+  126  git add .
+  127  git commmit -m "Adding the file"
+  128  git commit -m "Adding the file"
+  129  git log
+  130  git clone https://github.com/HarshRahangdale/Harsh_DevOps_Own.git
+  131  git push
+  132  ls
+  133  scd Harsh_DevOps_Own/
+  134  cd Harsh_DevOps_Own/
+  135  ls
+  136  cd ..
+  137  mv file.txt Harsh_DevOps_Own/
+  138  cd Harsh_DevOps_Own/
+  139  ls
+  140  git status
+  141  git add .
+  142  git status
+  143  ls
+  144  git commit -m "Added"
+  145  git push
+  146  history >history.txt
+  147  cat history.txt 
+  148  clear
+  149  cd ..
+  150  echo "World is full of egoistic people"> context.txt
+  151  ls
+  152  git status
+  153  git add context.txt 
+  154  git status
+  155  git commit -m "New File"
+  156  cd Harsh_DevOps_Own/
+  157  git push
+  158  cd ..
+  159  ls
+  160  mv context.txt Harsh_DevOps_Own/
+  161  cd Harsh_DevOps_Own/
+  162  ls
+  163  git add context.txt 
+  164  git commit -m "new File"
+  165  git push
+  166  git pull context.txt
+  167  ls
+  168  git pull
+  169  ls
+  170  cd ..
+  171  ls
+  172  git pull
+  173  cd Harsh_DevOps_Own/
+  174  ls
+  175  ls
+  176  git branch
+  177  ls
+  178  mkdir practical
+  179  cd practical/
+  180  echo "Harsh rahangdale" > Info.txt
+  181  ls
+  182  fit init
+  183  git int
+  184  git init
+  185  git status
+  186  ls
+  187  rm Info.txt 
+  188  cd ..
+  189  rm practical/
+  190  rm practical/ -fr
+  191  ls
+  192  cd ..
+  193  echo "Harsh rahangdale" > Info.txt
+  194  ls
+  195  git init
+  196  ls
+  197  ls -la
+  198  git add Info.txt 
+  199  git status
+  200  git commit -m "Hello"
+  201  ls
+  202  mv Info.txt Harsh_DevOps_Own/
+  203  cd Harsh_DevOps_Own/
+  204  ls
+  205  git add Info.txt 
+  206  git commit -m "Hello harsh Rahangdale"
+  207  git push
+  208  ls
+  209  git push Info.txt
+  210  cd ..
+  211  ls
+  212  cd Harsh_DevOps_Own/
+  213  CD
+  214  cd ..
+  215  ls
+  216  ls
+  217  cd Harsh_DevOps_Own/
+  218  ls
+  219  git push Info.txt
+  220  ls
+  221  git push 
+  222  git pull
+  223  ls
+  224  cdH
+  225  cd Harsh_DevOps_Own/
+  226  ls
+  227  git push
+  228  git --help
+  229  ls
+  230  ls -a
+  231  ls
+  232  echo "Hello Good Morning"> greet.txt 
+  233  ls
+  234  git init
+  235  ls
+  236  ls -a
+  237  git status
+  238  git add .
+  239  git status
+  240  git commit -m 
+  241  git commit -m "Adding the good morning contained file"
+  242  git log --oneline
+  243  git clone https://github.com/HarshRahangdale/Harsh_DevOps_Own.git
+  244  ls
+  245  mv greet.txt Harsh_DevOps_Own/
+  246  LS
+  247  cd Harsh_DevOps_Own/
+  248  ls
+  249  git status
+  250  git add greet.txt 
+  251  git status
+  252  git commit -m "Adding greet file in remote repo"
+  253  git push
+  254  ls
+  255  ls
+  256  ls
+  257  lsl
+  258  ls
+  259  git status
+  260  git push
+  261  git pull 
+  262  ls
+  263  git commit -m "Extracting the file from git"
+  264  mv repo ..
+  265  ls
+  266  cd ..
+  267  ls
+  268  cd repo
+  269  cd repo -fr
+  270  cat repo
+  271  ls
+  272  cd Harsh_DevOps_Own/
+  273  LS
+  274  git pull
+  275  ls
+  276  cd fol
+  277  cd folder/
+  278  ls
+  279  cd ..
+  280  git branch
+  281  create branch
+  282  git branch -a
+  283  ls
+  284  git branch dev
+  285  git branch
+  286  git switch dev
+  287  ls
+  288  git checkout feature/application1
+  289  git branch feature/application1
+  290  git checkout feature/application1
+  291  ls
+  292  touch ffile_application.txt
+  293  ls
+  294  historyu > history.txt
+  295  history > history.txt
+  296  ls
+  297  git branch
+  298  git checkout dev
+  299  git merge feature/application1 
+  300  ls
+  301  git status
+  302  git brancnh 
+  303  hit branch
+  304  git branch
+  305  git branch feature/application2
+  306  git branch
+  307  git checkout feature/application2
+  308  ls
+  309  echo "We are adding the second file " >> apllication2.txt
+  310  ls
+  311  git status
+  312  git add .
+  313  git commit -m "Upgraded file is this"
+  314  git push
+  315  git push --set-upstream origin feature/application2
+  316  git checkout dev
+  317  git status
+  318  touch harsh.txt
+  319  git add .
+  320  git status
+  321  git commit -m "This Is Harsh"
+  322  git push
+  323      git push --set-upstream origin dev
+  324  clear
+  325  git branch
+  326  cd H
+  327  cd Harsh_DevOps_Own/
+  328  git branch
+  329  git checkout feature/application1
+  330  ls
+  331  history >> commands.txt
